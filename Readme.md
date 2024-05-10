@@ -1,3 +1,8 @@
+# Como usar ? 
+- crie uma conta no openweathermap
+- pegue o token e adicione no campo API_KEY
+- Execulte o comando python no main.py para execultar o aplicativo.
+
 Integração com API de Previsão do Tempo:
 O aplicativo se integra a uma API de previsão do tempo confiável e precisa para obter dados meteorológicos atualizados em tempo real.
 A integração com a API permite ao aplicativo acessar uma ampla gama de informações meteorológicas, incluindo temperatura, umidade, velocidade do vento, condições atmosféricas, entre outros.
