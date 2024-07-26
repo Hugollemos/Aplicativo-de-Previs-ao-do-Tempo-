@@ -13,3 +13,5 @@ Previsão por Localização Geográfica:
 O aplicativo utiliza a localização geográfica do usuário para fornecer previsões personalizadas e precisas.
 Os usuários podem permitir o acesso à sua localização ou inserir manualmente a localização desejada para visualizar a previsão do tempo para essa área específica.
 A previsão por localização geográfica permite que os usuários planejem suas atividades com antecedência, levando em consideração as condições meteorológicas locais.
+
+teste 
